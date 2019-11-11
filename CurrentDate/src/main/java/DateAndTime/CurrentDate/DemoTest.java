@@ -8,6 +8,7 @@ public class DemoTest
 	public void test()
 	{
 		System.out.println("Welcome to Maven World");
+		System.out.println("Re-executing");
 	}
 
 }
